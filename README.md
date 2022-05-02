@@ -17,6 +17,9 @@
   ```python manage.py migrate```
 7. User interractive shell
   ```python manage.py shell```
+  
+### Activate env in ubuntu/WSL
+  ```source ENV_PATH/bin/activate```
 
 
 ### MVT
