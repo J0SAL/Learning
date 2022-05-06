@@ -22,8 +22,11 @@
   - \_app.js builds and Componenets are matched
   - first file to exevute is index.js
 
-- ### 'replace' clears history
+- ### Routing!
 
-![1  routing summary](https://user-images.githubusercontent.com/52382282/167026647-7f6996d8-97c2-4619-99c1-a125b27fd5d7.JPG)
-![2  pre_rendering_data_fetching intro](https://user-images.githubusercontent.com/52382282/167026666-01f8cfe9-8212-41f5-8a43-4368583131f2.JPG)
+  <img src="https://user-images.githubusercontent.com/52382282/167026647-7f6996d8-97c2-4619-99c1-a125b27fd5d7.JPG" alt="drawing" width="800"/>
 
+- ### Pre-rendering!
+
+  <img src="https://user-images.githubusercontent.com/52382282/167026666-01f8cfe9-8212-41f5-8a43-4368583131f2.JPG" alt="drawing" width="800"/>  
+  <img src="https://user-images.githubusercontent.com/52382282/167115162-279107ec-d0ab-4c22-a4cb-3bb9e0162578.png" alt="drawing" width="800"/>
