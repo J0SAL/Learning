@@ -30,3 +30,10 @@
 
   <img src="https://user-images.githubusercontent.com/52382282/167026666-01f8cfe9-8212-41f5-8a43-4368583131f2.JPG" alt="drawing" width="800"/>  
   <img src="https://user-images.githubusercontent.com/52382282/167115162-279107ec-d0ab-4c22-a4cb-3bb9e0162578.png" alt="drawing" width="800"/>
+  
+- ##Pre-rendering in NextJS is of 2 types: 
+  - Static generation - 
+    - HTML with all content of webpage is generated in advance when you build your app
+      1. Static pages without data
+      2. Static pages with data
+  - server side rendering
