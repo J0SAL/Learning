@@ -8,3 +8,8 @@
    2. ``` ! kaggle datasets download <name-of-dataset> ```
 4. Unzip Dataset ``` ! unzip <name-of-file> ```
 5. [Reference](https://www.analyticsvidhya.com/blog/2021/06/how-to-load-kaggle-datasets-directly-into-google-colab/)
+
+### 2. Colab Commands
+- Run console commands ```% <cmd>```
+   1. ``` % cd $path ``` OR ``` % cd '/users/home'```
+   2. ``` % cwd ```
