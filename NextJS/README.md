@@ -32,6 +32,8 @@
   <img src="https://user-images.githubusercontent.com/52382282/167026666-01f8cfe9-8212-41f5-8a43-4368583131f2.JPG" alt="drawing" width="800"/>  
   <img src="https://user-images.githubusercontent.com/52382282/167115162-279107ec-d0ab-4c22-a4cb-3bb9e0162578.png" alt="drawing" width="800"/>
   <img src="https://user-images.githubusercontent.com/52382282/167627439-c9230883-eda3-4b5d-b3ba-6610fd923adb.png" alt="drawing" width="800"/>
+  
+  - ### Static Generation
   <img src="https://user-images.githubusercontent.com/52382282/167628018-91833eac-f1ee-45c9-9c60-6bd4ac0bebf3.png" alt="drawing" width="800"/>
   <img src="https://user-images.githubusercontent.com/52382282/167628080-c796b349-8573-435b-9410-406941b730b8.png" alt="drawing" width="800"/>
   <img src="https://user-images.githubusercontent.com/52382282/167648563-6b14fa7b-140d-4a98-a8d8-2bd9a67b99a2.png" alt="drawing" width="800"/>
@@ -51,6 +53,21 @@
   - 
   <img src="https://user-images.githubusercontent.com/52382282/172066214-558a7d93-f1c8-413e-8598-207180ccbea3.png" alt="drawing" width="800"/>
   <img src="https://user-images.githubusercontent.com/52382282/172066408-88b9951a-247f-4bd3-9c1a-86a140e680fa.png" alt="drawing" width="800"/>
+  
+  - Issues
+  - 
+  <img src="https://user-images.githubusercontent.com/52382282/172118418-cb7323f6-65b8-4f0b-a147-2459863a321a.png" alt="drawing" width="800"/>
+  <img src="https://user-images.githubusercontent.com/52382282/172120503-ecbd7b94-970d-4f6c-a646-9b708891d408.png" alt="drawing" width="800"/>
+  <img src="https://user-images.githubusercontent.com/52382282/172120539-18143bc5-55e1-418b-89f2-2d672efe6ba6.png" alt="drawing" width="800"/>
+  <img src="https://user-images.githubusercontent.com/52382282/172120588-7c0983b4-0d76-460a-9e3f-9199c99cd06e.png" alt="drawing" width="800"/>
+   
+  - Fixes 
+  - 
+  <img src="https://user-images.githubusercontent.com/52382282/172122505-08cafb4f-b28b-41af-81da-c88f822b4700.png" alt="drawing" width="800"/>
+  <img src="https://user-images.githubusercontent.com/52382282/172122566-5b70ab4e-0cc8-4855-9701-a9c7976ff93f.png" alt="drawing" width="800"/>
+  <img src="https://user-images.githubusercontent.com/52382282/172122837-b358ba25-dab7-4150-8cb3-548021d7cc76.png" alt="drawing" width="800"/>
+
+
 
 
 
