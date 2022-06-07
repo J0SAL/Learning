@@ -66,6 +66,22 @@
   <img src="https://user-images.githubusercontent.com/52382282/172122505-08cafb4f-b28b-41af-81da-c88f822b4700.png" alt="drawing" width="800"/>
   <img src="https://user-images.githubusercontent.com/52382282/172122566-5b70ab4e-0cc8-4855-9701-a9c7976ff93f.png" alt="drawing" width="800"/>
   <img src="https://user-images.githubusercontent.com/52382282/172122837-b358ba25-dab7-4150-8cb3-548021d7cc76.png" alt="drawing" width="800"/>
+  
+  - ### Server Side Rendering
+  -
+  <img src="https://user-images.githubusercontent.com/52382282/172346960-3b3c8aec-aef1-49f4-8675-28f407f6143e.png" alt="drawing" width="800"/>
+  <img src="https://user-images.githubusercontent.com/52382282/172348952-0544fff3-cc37-4bc0-8b0a-c84d03168fca.png" alt="drawing" width="800"/>
+  <img src="https://user-images.githubusercontent.com/52382282/172349010-710f91d9-8dda-4c8e-ae6c-a585c99df083.png" alt="drawing" width="800"/>
+ 
+ - ### Client Side Data Fetching
+   <img src="https://user-images.githubusercontent.com/52382282/172372491-7c96b08e-b7a2-4e9d-9c5e-d487ab2484d1.png" alt="drawing" width="800"/>
+   
+   - #### SWR (Hook) for Client-side Data Fetching is preferred and is easy
+   - #### YT-38 - [Pre rendering + Client side Data Fetching + Shallow Routing](https://www.youtube.com/watch?v=yFvLLPBubfw&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH&index=38&ab_channel=Codevolution)
+   <img src="https://user-images.githubusercontent.com/52382282/172375752-88834799-9506-4488-8196-768adf674580.png" alt="drawing" width="800"/>
+   <img src="https://user-images.githubusercontent.com/52382282/172375950-10d8ac54-f372-402d-95c4-217beb8792f5.png" alt="drawing" width="800"/>
+
+
 
 
 
