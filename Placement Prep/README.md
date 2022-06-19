@@ -2,7 +2,7 @@
   - Book by Galvin
   - [TUF](https://takeuforward.org/interviews/must-do-questions-for-dbms-cn-os-interviews-sde-core-sheet/), [Interview bit](https://www.interviewbit.com/operating-system-interview-questions/)
   - Gate Smashers - YT
-  - Apna college
+  - Apna college pdf
   - GeeksForGeeks
 
 ### OOP - Object Oriented Programming
@@ -15,6 +15,11 @@
   - [Examples](https://github.com/tssovi/grokking-the-object-oriented-design-interview)
 
 ### N/W - Networking
-  - Apna College
+  - Apna College pdf
   - Striver
   - InterviewBit
+
+### DBMS - Database Management System
+  - TUF, [InterviewBit](https://www.interviewbit.com/dbms-interview-questions/)
+  - Gate Smashers - YT
+  - Apna College pdf
